@@ -1,5 +1,5 @@
 # Season Spinnies
-This is the grand collection of seasonally varied spinnies recipes &#127788; &#127793; &#127809; &#127875; &#127876; &#127774; by Anna and Søren &#128069;. 
+This is the grand collection of seasonally varied spinnies recipes &#127793; &#127809; &#127774; &#127875; &#127788; &#127876; &#127784; by Anna and Søren &#128069;. 
 
 # Spinnies that are tested and tried
 
