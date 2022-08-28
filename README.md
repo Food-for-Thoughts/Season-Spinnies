@@ -16,22 +16,22 @@ Kardemommesnurrer
 ## Spinnies in the pipeline
 
 ### Summer:
-Jordbærsnurrer 
-Hindbærsnurrer
-Alle bærsnurrer egentlig
-Focacciasnurrer - Med soltørrede tomater, oliven og rosmarin
+Jordbærsnurrer <br>
+Hindbærsnurrer <br>
+Alle bærsnurrer egentlig <br>
+Focacciasnurrer - med soltørrede tomater, oliven og rosmarin <br>
 
 ### Autumn:
-Svampe- nøddesnurrer
-Nutella- nøddesnurrer
-Gedeost- rosmarin- og honningsnurrer
-Æblesnurrer
+Svampe- nøddesnurrer <br>
+Nutella- nøddesnurrer <br>
+Gedeost- rosmarin- og honningsnurrer <br>
+Æblesnurrer <br>
 
 ### Winter:
-Kanelsnurrer
-Fastelavnssnurrer med marcipan og vaniljecreme
+Kanelsnurrer <br>
+Fastelavnssnurrer med marcipan og vaniljecreme <br>
 
 ### Other:
-Pizzasnurrer
-Noget med parmesan
+Pizzasnurrer <br>
+Noget med parmesan <br>
 	
