@@ -3,36 +3,35 @@ This is the grand collection of seasonally varied spinnies recipes &#127793; &#1
 
 ## Spinnies that are tested and tried
 
-Spring:
-•	Wild garlic spinny (savory)
-•	Vanilla/lemon spinny with rhubarb ganache
+### Spring:
+Wild garlic spinny (savory)
+Vanilla/lemon spinny with rhubarb ganache
 
-Autumn:
-•	Hocaido spinny (savory)
+### Autumn:
+Hocaido spinny (savory)
 
-Winter:
-•	Kardemommesnurrer
+### Winter:
+Kardemommesnurrer
 
 ## Spinnies in the pipeline
 
-Summer:
-•	Jordbærsnurrer
-•	Hindbærsnurrer
-•	Alle bærsnurrer egentlig
-•	Focacciasnurrer
-o	Med soltørrede tomater, oliven og rosmarin
+### Summer:
+Jordbærsnurrer
+Hindbærsnurrer
+Alle bærsnurrer egentlig
+Focacciasnurrer - Med soltørrede tomater, oliven og rosmarin
 
-Autumn:
-•	Svampe- nøddesnurrer
-•	Nutella- nøddesnurrer
-•	Gedeost- rosmarin- og honningsnurrer
-•	Æblesnurrer
+### Autumn:
+Svampe- nøddesnurrer
+Nutella- nøddesnurrer
+Gedeost- rosmarin- og honningsnurrer
+Æblesnurrer
 
-Winter:
-•	Kanelsnurrer
-•	Fastelavnssnurrer med marcipan og vaniljecreme
+### Winter:
+Kanelsnurrer
+Fastelavnssnurrer med marcipan og vaniljecreme
 
-Other:
-•	Pizzasnurrer
-•	Noget med parmesan
+### Other:
+Pizzasnurrer
+Noget med parmesan
 	
