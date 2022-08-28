@@ -4,7 +4,7 @@ This is the grand collection of seasonally varied spinnies recipes &#127793; &#1
 ## Spinnies that are tested and tried
 
 ### Spring:
-Wild garlic spinny (savory)
+Wild garlic spinny (savory) <br>
 Vanilla/lemon spinny with rhubarb ganache
 
 ### Autumn:
@@ -16,7 +16,7 @@ Kardemommesnurrer
 ## Spinnies in the pipeline
 
 ### Summer:
-Jordbærsnurrer
+Jordbærsnurrer 
 Hindbærsnurrer
 Alle bærsnurrer egentlig
 Focacciasnurrer - Med soltørrede tomater, oliven og rosmarin
